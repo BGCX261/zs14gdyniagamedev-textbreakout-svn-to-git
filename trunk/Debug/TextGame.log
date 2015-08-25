@@ -1,0 +1,18 @@
+﻿  textgame.cpp
+  playstate.cpp
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\playstate.cpp(35): warning C4800: 'SHORT' : forcing value to bool 'true' or 'false' (performance warning)
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\playstate.cpp(38): warning C4800: 'SHORT' : forcing value to bool 'true' or 'false' (performance warning)
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\playstate.cpp(54): warning C4101: 'Position' : unreferenced local variable
+  player.cpp
+  main.cpp
+  gamestate.cpp
+  gameobject.cpp
+  brick.cpp
+  breakout.cpp
+  ball.cpp
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\ball.cpp(9): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\ball.cpp(10): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\ball.cpp(28): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+c:\documents and settings\krzysztof\moje dokumenty\visual studio 2008\projects\zs14gamedev\jan 2011\textgame\ball.cpp(29): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  TextGame.vcxproj -> C:\Documents and Settings\Krzysztof\Moje dokumenty\Visual Studio 2008\Projects\zs14gamedev\Jan 2011\TextGame\Debug\TextGame.exe
